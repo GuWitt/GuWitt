@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🏅 Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/b68dfd7a-2ebf-4fa9-bbf4-80e4c0f78ab7/public_url">
+    <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" style="margin-right: 10px;"/>
+  </a>
