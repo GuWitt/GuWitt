@@ -17,7 +17,7 @@
   ### ⚙️ Tools:
 
   
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)
 
   ### ☎️ contacts:
 
