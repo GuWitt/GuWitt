@@ -8,7 +8,7 @@
 
   ## 🚀 Skills
 
-  - Here are the tools and languages ​​I am learning:
+- Here are the tools and languages ​​I am learning:
 
    ### 🌐 Languages
 
