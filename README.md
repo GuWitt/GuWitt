@@ -1,18 +1,30 @@
 ## Hi there! i'm Gustavo Witt 
 
-<!--
-**GuWitt/GuWitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 professional profile
 
-Here are some ideas to get you started:
+- 📗 High School student (CONCORDIA - São Leopoldo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍💻 Currently enrolled in a technical course in systems development (SENAC - São Leopoldo)
+
+  ## 🚀 Skills
+
+  -Here are the tools and languages ​​I am learning:
+
+   ### 🌐 Languages
+
+  [![My Skills](https://skillicons.dev/icons?i=javascript,python)](https://skillicons.dev)
+
+  ### ⚙️ Tools:
+
+  
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio)](https://skillicons.dev)<br><br>
+
+  ### ☎️ contacts:
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavokkwitt@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guwitt)
+
+
 -->
 ## 🏅 Certifications
 
